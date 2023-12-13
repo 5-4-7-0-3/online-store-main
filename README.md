@@ -1,4 +1,4 @@
-### This is an online store, e-commerce project, based on React.js, Next.js, Nest.js and Prisma like Starbucks, with Stripe payment. Which makes it possible to add products to the basket and pay for orders.
+### This is an online store, e-commerce project, based on React.js, Next.js, Nest.js
 
 ### Installation npm modules on the Client and the Server`☕`
 ```bash
